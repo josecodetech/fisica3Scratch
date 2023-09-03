@@ -1,0 +1,3 @@
+Un coche se mueve por una carretera recta durante 4 horas con una velocidad constante de 70 km/h. Calcular:
+a. Distancia recorrida
+b. Velocidad a la que deberia moverse para recorrer la misma distancia en 3 horas.
