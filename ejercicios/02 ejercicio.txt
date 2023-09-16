@@ -1,0 +1,1 @@
+Un coche se mueve con velocidad constante de 73 km/h. Cuando pasan 15 segundos un segundo coche sale en su persecucion con la misma direccion y sentido a una velocidad de 92 km/h, ¿cuanto tardan en encontrarse?, ¿donde lo haran?
